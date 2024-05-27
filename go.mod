@@ -1,4 +1,4 @@
-module moul.io/zapgorm2
+module github.com/CyrusF/zapgorm2
 
 go 1.15
 
